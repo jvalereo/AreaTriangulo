@@ -1,0 +1,12 @@
+C:\Users\JONAS\Desktop\Exercicio Avançado C# 2022\AreaTriangulo\AreaTriangulo\bin\Debug\AreaTriangulo.exe.config
+C:\Users\JONAS\Desktop\Exercicio Avançado C# 2022\AreaTriangulo\AreaTriangulo\bin\Debug\AreaTriangulo.exe
+C:\Users\JONAS\Desktop\Exercicio Avançado C# 2022\AreaTriangulo\AreaTriangulo\bin\Debug\AreaTriangulo.pdb
+C:\Users\JONAS\Desktop\Exercicio Avançado C# 2022\AreaTriangulo\AreaTriangulo\obj\Debug\AreaTriangulo.csprojResolveAssemblyReference.cache
+C:\Users\JONAS\Desktop\Exercicio Avançado C# 2022\AreaTriangulo\AreaTriangulo\obj\Debug\AreaTriangulo.Form1.resources
+C:\Users\JONAS\Desktop\Exercicio Avançado C# 2022\AreaTriangulo\AreaTriangulo\obj\Debug\AreaTriangulo.Properties.Resources.resources
+C:\Users\JONAS\Desktop\Exercicio Avançado C# 2022\AreaTriangulo\AreaTriangulo\obj\Debug\AreaTriangulo.csproj.GenerateResource.Cache
+C:\Users\JONAS\Desktop\Exercicio Avançado C# 2022\AreaTriangulo\AreaTriangulo\obj\Debug\AreaTriangulo.exe
+C:\Users\JONAS\Desktop\Exercicio Avançado C# 2022\AreaTriangulo\AreaTriangulo\obj\Debug\AreaTriangulo.pdb
+C:\Users\JONAS\Desktop\AreaTriangulo\AreaTriangulo\bin\Debug\AreaTriangulo.exe.config
+C:\Users\JONAS\Desktop\AreaTriangulo\AreaTriangulo\obj\Debug\AreaTriangulo.exe
+C:\Users\JONAS\Desktop\AreaTriangulo\AreaTriangulo\obj\Debug\AreaTriangulo.pdb
